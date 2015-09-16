@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說仁王般若波羅蜜經
+#+DATE: 2015-08-30 19:46:37.569732
+#+PROPERTY: JUAN 0
